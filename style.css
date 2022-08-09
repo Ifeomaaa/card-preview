@@ -1,0 +1,67 @@
+body{
+    font-size: 15px;
+
+}
+img{
+    width: 64px;
+    height: 40px;
+}
+.first-div{
+    background-color:hsl(31, 77%, 52%);
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    position: absolute;
+    left: 330px;
+    top: 200px;
+    border-radius: 10px;
+}
+.second-div{
+    background-color:hsl(184, 100%, 22%);
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    position: absolute;
+    left: 560px;
+    top: 200px;
+}
+.third-div{
+    background-color:hsl(179, 100%, 13%);
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    position: absolute;
+    left:790px;
+    top: 200px;
+    border-radius: 10px;
+}
+.learn{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+h1{
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+}
+.cars{
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+   
+}
+.l1{
+    color:hsl(31, 77%, 52%);
+    padding: 7px;
+}
+.l2{
+    color:hsl(184, 100%, 22%);
+    padding: 7px;
+}
+.l3{
+    color: hsl(179, 100%, 13%);
+    padding: 7px;
+}
